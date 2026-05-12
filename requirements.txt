@@ -1,2 +1,5 @@
+lancedb
+sentence-transformers
+pydantic
 typer
 questionary
